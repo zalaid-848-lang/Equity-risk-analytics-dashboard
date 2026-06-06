@@ -1,0 +1,35 @@
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# System folders
+AppData/
+Desktop/
+Documents/
+Downloads/
+OneDrive/
+Pictures/
+Videos/
+Music/
+anaconda3/
+anaconda_projects/
+
+# Git and temporary files
+.git/
+.bash_history
+.python_history
+NTUSER*
+*.LOG*
+*.regtrans-ms
+.conda/
+.continuum/
+.ipython/
+.jupyter/
+.matplotlib/
+.streamlit/
+
+# Notebooks and misc
+*.ipynb
+RA Project 1
+untitled.py
