@@ -76,3 +76,13 @@ Calculated anomaly scores based on Sharpe ratio deviation from cluster means.
 
 ## License
 MIT
+## Enhanced Version (v2.0)
+- **30+ stocks** from S&P 500 for robust clustering  
+- **Advanced dashboard** with interactive visualizations  
+- **Excel export** with complete risk metrics  
+- **Anomaly detection** with adjustable thresholds  
+
+### Run Enhanced Dashboard
+```bash
+streamlit run app_enhanced.py
+
